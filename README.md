@@ -18,10 +18,7 @@ A web-based inventory management system for books that allows users to add, edit
 
 https://github.com/user-attachments/assets/710db4a0-fa35-40f7-89ee-0606a9bcb393
 
----
-
-### **Live link**
-[Click here](https://book-inventory-topaz.vercel.app/)        
+---  
 
 
 Here’s a concise section for your README that highlights the important directories in your project structure:
